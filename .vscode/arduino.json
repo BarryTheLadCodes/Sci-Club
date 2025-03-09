@@ -1,6 +1,6 @@
 {
     "configuration": "cpu=atmega328",
     "board": "arduino:avr:nano",
-    "sketch": "blinking_leds_arduino\\blinking_leds_arduino.ino",
+    "sketch": "arduino_rgb_led\\arduino_rgb_led.ino",
     "port": "COM4"
 }
